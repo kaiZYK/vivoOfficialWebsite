@@ -1,0 +1,22 @@
+body {
+  background-image: none;
+}
+.logo > a > i,
+.nav-list > li > a,
+.search > i,
+.banner-title,
+.main-1-left > p,
+.main-2-right > p,
+.main-3-left > p,
+.shop {
+  color: #000e19;
+}
+.nav-list-ul {
+  background-image: linear-gradient(to top, #000e19, #ffffff);
+}
+.commodity-list {
+  background-image: linear-gradient(to bottom, #ffffff 40%, #27d8fd);
+}
+.commodity-list > ul > li:hover {
+  box-shadow: 1px 1px 10px #000e19;
+}

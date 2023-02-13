@@ -1,0 +1,121 @@
+{
+  "id": "3627202",
+  "name": "vivio官网项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "404878",
+      "name": "群蜂微信",
+      "font_class": "qunfengweixin",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "404882",
+      "name": "群蜂新浪微博",
+      "font_class": "qunfengxinlangweibo",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "912827",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "1403429",
+      "name": "vivo",
+      "font_class": "vivo",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "2019087",
+      "name": "已关注",
+      "font_class": "yiguanzhu",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "4974166",
+      "name": "网站",
+      "font_class": "wangzhan",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "5643506",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7025922",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "7567776",
+      "name": "24gl-telephone",
+      "font_class": "24gl-telephone",
+      "unicode": "e953",
+      "unicode_decimal": 59731
+    },
+    {
+      "icon_id": "8106272",
+      "name": "next",
+      "font_class": "next",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "8605730",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "10678401",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "11058856",
+      "name": "小程序",
+      "font_class": "xiaochengxu",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "11982639",
+      "name": "Arrow, right, next",
+      "font_class": "Arrowrightnext",
+      "unicode": "e9cc",
+      "unicode_decimal": 59852
+    },
+    {
+      "icon_id": "13644708",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16563853",
+      "name": "下载盘点单、下载打印模板",
+      "font_class": "cangpeitubiao_xiazaipandiandanxiazaidayinmoban",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
